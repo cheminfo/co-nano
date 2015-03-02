@@ -39,6 +39,7 @@ var db_methods = [
   'show',
   'atomic',
   'search',
+  'viewWithList',
   {
     name: 'attachment',
     methods: ['insert', 'get', 'destroy']
